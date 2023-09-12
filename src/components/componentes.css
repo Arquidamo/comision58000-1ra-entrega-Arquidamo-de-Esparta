@@ -1,0 +1,47 @@
+ul{
+    list-style: none;
+    
+}
+   
+li{
+display: inline-flex;
+margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+    img{
+        width: 60px;
+        height: 60px;
+        border-radius: 5px;
+    }
+
+    #miBrand{
+           text-align: start;
+
+    }
+    #misEnlaces{
+          text-align: end;
+    }
+
+    .container{
+        background-color: bisque;
+    }
+    
+    #mifooter{
+        display: flex;
+        flex-direction: row;
+        bottom: 0;
+        background-color: bisque;
+    }
+
+
+    mein-container{
+        display: flex;
+        flex-direction: column;
+        height: 400px;
+
+    }
+     h2,p{
+        color: antiquewhite;
+     }
